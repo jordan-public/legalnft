@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: BUSL-1.1
 import React from 'react';
 import * as IPFS from 'ipfs-core';
 import NavigationBar from './components/NavigationBar';

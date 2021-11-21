@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: BUSL-1.1
 import React, { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Accordion, Card, Button } from 'react-bootstrap';

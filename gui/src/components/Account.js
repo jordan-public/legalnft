@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: BUSL-1.1
 import React from 'react';
 import OnboardingButton from './OnboardingButton';
 import Web3 from 'web3';
