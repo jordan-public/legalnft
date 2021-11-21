@@ -3,6 +3,4 @@ contracts/artifacts/*
 private/*
 node_modules/*
 tmp/*
-bin/*
-demo/*
-doc/*
+.DS_Store
