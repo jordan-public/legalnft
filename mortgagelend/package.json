@@ -1,0 +1,17 @@
+{
+  "name": "mortgagelend",
+  "version": "1.0.0",
+  "description": "Mortgage Lending Protocol using LegalNFT",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Stojanovski",
+  "license": "ISC",
+  "dependencies": {
+    "@aave/protocol-js": "^4.3.0"
+  }
+}
