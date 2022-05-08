@@ -1,7 +1,6 @@
 This project is the [winner of
 Best use of IPFS/Filecoin 2nd Place](https://showcase.ethglobal.com/web3jam/legalnft) at the EthGlobal Web3Jam 2021 hackathon.
 
-Later, in March 2022 it received an [Open Grant from the Filecoin Foundation, Inc.](https://fil.org/grants/) for further development.
 ## This repository is moved to [https://github.com/pactum-verum/legalnft](https://github.com/pactum-verum/legalnft).
 
 # Legal NFT
