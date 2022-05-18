@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: Apache-2.0 and MIT
 pragma solidity 0.6.12;
 
 import "./Interfaces.sol";

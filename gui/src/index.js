@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0 and MIT
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

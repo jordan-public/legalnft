@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: Apache-2.0 and MIT
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Tabs, Tab } from 'react-bootstrap';

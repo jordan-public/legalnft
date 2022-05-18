@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: Apache-2.0 and MIT
 import React from 'react';
 import OnboardingButton from './OnboardingButton';
 import Web3 from 'web3';

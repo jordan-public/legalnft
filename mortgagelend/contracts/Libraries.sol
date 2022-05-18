@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: agpl-3.0
+// SPDX-License-Identifier: Apache-2.0 and MIT
 
 // This file is directly copied from: https://raw.githubusercontent.com/aave/code-examples-protocol/main/V2/Credit%20Delegation/Libraries.sol
 

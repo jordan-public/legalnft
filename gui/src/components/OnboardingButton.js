@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: Apache-2.0 and MIT
 import MetaMaskOnboarding from '@metamask/onboarding';
 import React from 'react';
 import { Button } from 'react-bootstrap';

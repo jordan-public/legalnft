@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: Apache-2.0 and MIT
 var Agreement = artifacts.require("Agreement");
 
 // accounts[0] = owner (of all contracts for testing purposes)

@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: Apache-2.0 and MIT
 import React from 'react';
 import * as IPFS from 'ipfs-core';
 import NavigationBar from './components/NavigationBar';
